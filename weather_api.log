@@ -1,0 +1,70 @@
+INFO 2025-07-30 12:20:16,263 views 885636 130581424760384 Weather history requested from IP 127.0.0.1
+INFO 2025-07-30 12:29:53,028 views 890528 136517077434816 Weather history requested from IP 127.0.0.1
+INFO 2025-07-30 12:29:53,829 services 890528 136517077434816 API call successful for São Paulo, 
+INFO 2025-07-30 12:29:53,830 views 890528 136517077434816 Weather request for São Paulo,  from IP 127.0.0.1 - Cached: False
+INFO 2025-07-30 12:29:53,834 services 890528 136517077434816 Cache hit for São Paulo, 
+INFO 2025-07-30 12:29:53,834 views 890528 136517077434816 Weather request for São Paulo,  from IP 127.0.0.1 - Cached: True
+INFO 2025-07-30 12:29:53,838 services 890528 136517077434816 Cache hit for São Paulo, 
+INFO 2025-07-30 12:29:53,838 views 890528 136517077434816 Weather request for São Paulo,  from IP 127.0.0.1 - Cached: True
+INFO 2025-07-30 12:29:53,841 services 890528 136517077434816 Cache hit for São Paulo, 
+INFO 2025-07-30 12:29:53,842 views 890528 136517077434816 Weather request for São Paulo,  from IP 127.0.0.1 - Cached: True
+INFO 2025-07-30 12:29:53,845 services 890528 136517077434816 Cache hit for São Paulo, 
+INFO 2025-07-30 12:29:53,846 views 890528 136517077434816 Weather request for São Paulo,  from IP 127.0.0.1 - Cached: True
+INFO 2025-07-30 12:36:23,699 views 892939 123297762218432 Weather history requested from IP 127.0.0.1
+INFO 2025-07-30 12:36:29,402 services 892939 123297762218432 API call successful for São Paulo, 
+INFO 2025-07-30 12:36:29,402 views 892939 123297762218432 Weather request for São Paulo,  from IP 127.0.0.1 - Cached: False
+INFO 2025-07-30 12:36:29,406 services 892939 123297762218432 Cache hit for São Paulo, 
+INFO 2025-07-30 12:36:29,406 views 892939 123297762218432 Weather request for São Paulo,  from IP 127.0.0.1 - Cached: True
+INFO 2025-07-30 12:36:29,410 services 892939 123297762218432 Cache hit for São Paulo, 
+INFO 2025-07-30 12:36:29,410 views 892939 123297762218432 Weather request for São Paulo,  from IP 127.0.0.1 - Cached: True
+INFO 2025-07-30 12:36:29,414 services 892939 123297762218432 Cache hit for São Paulo, 
+INFO 2025-07-30 12:36:29,414 views 892939 123297762218432 Weather request for São Paulo,  from IP 127.0.0.1 - Cached: True
+INFO 2025-07-30 12:36:29,418 services 892939 123297762218432 Cache hit for São Paulo, 
+INFO 2025-07-30 12:36:29,418 views 892939 123297762218432 Weather request for São Paulo,  from IP 127.0.0.1 - Cached: True
+INFO 2025-07-30 12:40:22,755 services 894623 135209698619840 API call successful for São Paulo, BR
+INFO 2025-07-30 12:40:22,755 services 894623 135209698619840 Cache hit for São Paulo, BR
+INFO 2025-07-30 12:41:18,036 services 895017 131552221872576 API call successful for São Paulo, BR
+INFO 2025-07-30 12:41:18,037 services 895017 131552221872576 Cache hit for São Paulo, BR
+INFO 2025-07-30 12:46:12,037 services 896771 128490454598080 API call successful for São Paulo, BR
+INFO 2025-07-30 12:46:12,037 services 896771 128490454598080 Cache hit for São Paulo, BR
+INFO 2025-07-30 12:49:31,073 services 898096 139273536332224 API call successful for São Paulo, BR
+INFO 2025-07-30 12:49:31,073 services 898096 139273536332224 Cache hit for São Paulo, BR
+INFO 2025-07-30 12:54:22,223 services 899945 138959112434112 API call successful for São Paulo, BR
+INFO 2025-07-30 12:54:22,223 services 899945 138959112434112 Cache hit for São Paulo, BR
+INFO 2025-07-30 12:54:53,994 services 900164 136090471645632 API call successful for São Paulo, BR
+INFO 2025-07-30 12:54:53,994 services 900164 136090471645632 Cache hit for São Paulo, BR
+INFO 2025-07-30 12:57:00,479 services 901060 124189375021504 API call successful for São Paulo, BR
+INFO 2025-07-30 12:57:00,479 services 901060 124189375021504 Cache hit for São Paulo, BR
+INFO 2025-07-30 12:58:14,919 services 901668 127672005751232 API call successful for São Paulo, BR
+INFO 2025-07-30 12:58:14,920 services 901668 127672005751232 Cache hit for São Paulo, BR
+INFO 2025-07-30 12:58:15,069 views 901668 127672005751232 Weather request for São Paulo, BR from IP 127.0.0.1 - Cached: False
+WARNING 2025-07-30 12:58:15,098 views 901668 127672005751232 Weather request failed for InvalidCity, : City 'InvalidCity' not found
+INFO 2025-07-30 12:58:15,118 views 901668 127672005751232 Weather history requested from IP 127.0.0.1
+INFO 2025-07-30 12:58:15,944 services 901668 127672005751232 API call successful for São Paulo, 
+INFO 2025-07-30 12:58:15,945 views 901668 127672005751232 Weather request for São Paulo,  from IP 127.0.0.1 - Cached: False
+INFO 2025-07-30 12:58:15,949 services 901668 127672005751232 Cache hit for São Paulo, 
+INFO 2025-07-30 12:58:15,949 views 901668 127672005751232 Weather request for São Paulo,  from IP 127.0.0.1 - Cached: True
+INFO 2025-07-30 12:58:15,953 services 901668 127672005751232 Cache hit for São Paulo, 
+INFO 2025-07-30 12:58:15,953 views 901668 127672005751232 Weather request for São Paulo,  from IP 127.0.0.1 - Cached: True
+INFO 2025-07-30 12:58:15,956 services 901668 127672005751232 Cache hit for São Paulo, 
+INFO 2025-07-30 12:58:15,957 views 901668 127672005751232 Weather request for São Paulo,  from IP 127.0.0.1 - Cached: True
+INFO 2025-07-30 12:58:15,960 services 901668 127672005751232 Cache hit for São Paulo, 
+INFO 2025-07-30 12:58:15,960 views 901668 127672005751232 Weather request for São Paulo,  from IP 127.0.0.1 - Cached: True
+INFO 2025-07-30 13:08:41,829 services 905579 134047244571072 API call successful for São Paulo, BR
+INFO 2025-07-30 13:08:41,829 services 905579 134047244571072 Cache hit for São Paulo, BR
+INFO 2025-07-30 13:08:41,945 views 905579 134047244571072 Weather request for São Paulo, BR from IP 127.0.0.1 - Cached: False
+WARNING 2025-07-30 13:08:41,975 views 905579 134047244571072 Weather request failed for InvalidCity, : City 'InvalidCity' not found
+INFO 2025-07-30 13:08:41,995 views 905579 134047244571072 Weather history requested from IP 127.0.0.1
+INFO 2025-07-30 13:08:42,738 services 905579 134047244571072 API call successful for São Paulo, 
+INFO 2025-07-30 13:08:42,738 views 905579 134047244571072 Weather request for São Paulo,  from IP 127.0.0.1 - Cached: False
+INFO 2025-07-30 13:08:42,743 services 905579 134047244571072 Cache hit for São Paulo, 
+INFO 2025-07-30 13:08:42,743 views 905579 134047244571072 Weather request for São Paulo,  from IP 127.0.0.1 - Cached: True
+INFO 2025-07-30 13:08:42,747 services 905579 134047244571072 Cache hit for São Paulo, 
+INFO 2025-07-30 13:08:42,747 views 905579 134047244571072 Weather request for São Paulo,  from IP 127.0.0.1 - Cached: True
+INFO 2025-07-30 13:08:42,751 services 905579 134047244571072 Cache hit for São Paulo, 
+INFO 2025-07-30 13:08:42,751 views 905579 134047244571072 Weather request for São Paulo,  from IP 127.0.0.1 - Cached: True
+INFO 2025-07-30 13:08:42,755 services 905579 134047244571072 Cache hit for São Paulo, 
+INFO 2025-07-30 13:08:42,755 views 905579 134047244571072 Weather request for São Paulo,  from IP 127.0.0.1 - Cached: True
+INFO 2025-07-30 13:18:28,585 views 909278 129331590325824 Weather history requested from IP 127.0.0.1
+INFO 2025-07-30 13:18:32,326 views 909278 129331590325824 Weather history requested from IP 127.0.0.1
+INFO 2025-07-30 13:18:35,249 views 909278 129331590325824 Weather history requested from IP 127.0.0.1
