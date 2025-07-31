@@ -117,7 +117,6 @@ sudo docker-compose build -up ou sudo docker compose build
 # Execute o comando no terminal bash para testar os testes unitários na raiz do seu projeto django.
 pytest
 
-\`\`\`bash
 # Health check
 curl http://localhost:8000/api/v1/health/
 
