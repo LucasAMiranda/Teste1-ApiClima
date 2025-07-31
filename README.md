@@ -75,8 +75,11 @@ make superuser
 \`\`\`bash
 # 6 Crie um ambiente virtual, ative o ambiente e Instale as dependências do projeto no arquivo requirements.txt 
 python3 -m venv venv ou python -m venv venv no windows
+
 source venv/bin/activate -> Linux
+
 venv\Scripts\activate -> Windows
+
 pip install -r requirements.txt
 
 \`\`\`bash
