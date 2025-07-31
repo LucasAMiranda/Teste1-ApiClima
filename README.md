@@ -18,7 +18,7 @@ Uma API REST Django robusta para dados meteorológicos com cache, rate limiting 
 - ✅ **API REST completa** com Django REST Framework
 - ✅ **Cache inteligente** com Redis (10 minutos)
 - ✅ **Banco PostgreSQL** para histórico de consultas
-- ✅ **Rate limiting** (60 req/hora por IP)
+- ✅ **Rate limiting** (100 requisições/hora por IP)
 - ✅ **Testes abrangentes** (unitário + integração + E2E)
 - ✅ **Docker Compose** para desenvolvimento
 - ✅ **Celery** para tarefas assíncronas
