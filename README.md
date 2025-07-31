@@ -114,7 +114,7 @@ sudo docker-compose build -up ou sudo docker compose build
 ### Verificar se Está Funcionando
 
 \`\`\`bash
-# Execute o comando no terminal bash para testar os testes unitários.
+# Execute o comando no terminal bash para testar os testes unitários na raiz do seu projeto django.
 pytest
 
 \`\`\`bash
