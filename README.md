@@ -73,15 +73,25 @@ make migrate
 make superuser
 
 \`\`\`bash
+# 6 Crie um ambiente viartual, ative o ambiente e Instale as depedências do projeto no arquivo requirements.txt 
+python3 -m venv venv ou python -m venv venv no windows
+source venv/bin/activate -> Linux
+venv\Scripts\activate -> Windows
+pip install -r requirements.txt
+
+\`\`\`bash
 # 6 RODAR LOCALMENTE
 python3 manage.py runserver
 
+\`\`\`bash
 # 7 Criar superuser 
 python3 manage.py createsuperuser
 
+\`\`\`bash
 # 8 Container com docker compose e docker file
 sudo docker-compose build -up ou sudo docker compose build
 
+\`\`\`bash
 # 9 Executando o projeto
 
     Construa a imagem: docker build -t nome-da-imagem . (execute no diretório onde o Dockerfile está)
